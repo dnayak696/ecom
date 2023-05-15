@@ -9,7 +9,6 @@ export default function Home (){
 
            <Hero/>
           <h1> Hello</h1>
-
           <Products/>
 
      </>)
